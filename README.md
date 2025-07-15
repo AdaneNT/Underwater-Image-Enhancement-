@@ -89,8 +89,8 @@ for filename in glob.glob(img_path):
 ### Storing output images in output_images folder
 
 ```python
-in_dir ='C:/Users/adanent/Documents/1__WP4_OD_Adriatic/1_Image-Enhancement-Optical image-ADRIATIC/1_Underwater_UWIPP/input_images_URPC/'
-out_dir ='C:/Users/adanent/Documents/1__WP4_OD_Adriatic/1_Image-Enhancement-Optical image-ADRIATIC/1_Underwater_UWIPP/output_images_URPC/'
+in_dir ='/path/to/input_images_URPC/'
+out_dir ='/path/to/output_images_URPC/'
 
 imgfiles = []
 valid_images = (".jpg", ".jpeg", ".PNG")
