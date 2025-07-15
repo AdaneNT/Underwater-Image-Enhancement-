@@ -144,9 +144,6 @@ for image in image_list:
     print("uciqe: ",UCIQE(enhanced_data))
     #temp.append(UCIQE(enhanced_data))
     print("UIQM: ",getUIQM(enhanced_data))
-    #t.append(getUIQM(enhanced_data))
-    #print("_uiconm: ",_uiconm(enhanced_data))
-    #usim.append(_uiconm(enhanced_data))
     
     l=[image,enhanced_data]
     plt.figure()
