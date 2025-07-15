@@ -78,7 +78,6 @@ Reading Input images
 from PIL import Image
 import glob
 img_path='/path/to/input_images/*.*'
-#img_path='./input_images2/*.*'
 image_list = []
 for filename in glob.glob(img_path):
     im=Image.open(filename)
