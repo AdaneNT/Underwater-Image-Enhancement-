@@ -11,6 +11,10 @@ This repository contains a toolbox dedicated to preprocessing and enhancing unde
 - Matplotlib
 - scikit-image
 - math
+- matplotlib
+- sewar
+- Pillow
+- import-ipynb
 
 ## Basic Usage
 
