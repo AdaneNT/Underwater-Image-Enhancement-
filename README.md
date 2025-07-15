@@ -108,9 +108,9 @@ for in_img in imgfiles:
 
 To assess the quality of underwater image enhancement, the following **no-reference image quality metrics** were used:
 
-### [UCIQE (Underwater Color Image Quality Evaluation)](https://ieeexplore.ieee.org/document/7084281)
+### [UCIQE (Underwater Color Image Quality Evaluation)](10.1109/TIP.2015.2491020)
 
-### [UIQM (Underwater Image Quality Measure)](https://ieeexplore.ieee.org/document/7952324)
+### [UIQM (Underwater Image Quality Measure)](10.1109/JOE.2015.2469915)
 
 
 ## Show enhanced Images
