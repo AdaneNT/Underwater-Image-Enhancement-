@@ -161,11 +161,9 @@ for image in image_list:
 
 The following images illustrate the enhancement results:
 
-**Image 1:**
-![Image 1](figures/image1.png)
+<img src="figures/image1.png" width="400"/>
 
-**Image 2:**
-![Image 2](figures/image2.png)
+<img src="figures/image2.png" width="400"/>
 
-**Image 3:**
-![Image 3](figures/image3.png)
+<img src="figures/image3.png" width="400"/>
+
