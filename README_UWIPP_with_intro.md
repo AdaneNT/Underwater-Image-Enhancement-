@@ -143,20 +143,8 @@ for image in image_list:
     plt.show()
 ```
 
-storing output images in output_images folder
+## Example Results
 
-```python
+The following image illustrates the effect of the enhancement pipeline on underwater images:
 
-```
-
-```python
-
-```
-
-```python
-
-```
-
-```python
-
-```
+![Enhanced Results](figures/enhanced_example.png)
