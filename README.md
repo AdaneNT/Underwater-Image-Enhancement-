@@ -1,2 +1,0 @@
-# Underwater-Image-Enhancement-
-This repository contains  a toolbox dedicated to preprocessing and enhancing underwater images. Developed as a Python-based module, it serves as an automated image preprocessing toolkit that incorporates a series of independent processing steps to rectify degraded images. This toolbox follows a single-image approach, enabling direct enhancement of underwater images without prior knowledge of light properties and imaging models. Its key features include dehazing, color correction, multi-scale fusion, and contrast enhancement.
