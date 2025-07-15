@@ -159,6 +159,13 @@ for image in image_list:
 
 ## Example Results
 
-The following image illustrates the effect of the enhancement pipeline on underwater images:
+The following images illustrate the enhancement results:
 
-![Enhanced Results](figures/enhanced_example.png)
+**Image 1:**
+![Image 1](figures/image1.png)
+
+**Image 2:**
+![Image 2](figures/image2.png)
+
+**Image 3:**
+![Image 3](figures/image3.png)
