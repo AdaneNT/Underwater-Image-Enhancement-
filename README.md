@@ -77,7 +77,7 @@ Reading Input images
 ```python
 from PIL import Image
 import glob
-img_path='C:/Users/adanent/Documents/1__WP4_OD_Adriatic/1_Image-Enhancement-Optical image-ADRIATIC/1_Underwater_UWIPP/input_images_URPC/*.*'
+img_path='/path/to/input_images/*.*'
 #img_path='./input_images2/*.*'
 image_list = []
 for filename in glob.glob(img_path):
